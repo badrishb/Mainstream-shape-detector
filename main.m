@@ -51,4 +51,4 @@ elseif circle_num < rec_num
 elseif circle_num > rec_num
     final = 'Circle numbers are greater than rectangle numbers.'
 end
-    
+% This is the end of the code    
